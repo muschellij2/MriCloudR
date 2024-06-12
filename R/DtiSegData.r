@@ -10,6 +10,7 @@ dtiAtlasName <- setSingleEnum("dtiAtlas", levels = c("Pediatric_168labels_12atla
 #' This class is used to create an object payload for DTI mapping processing.
 #'
 #' @import objectProperties
+#' @import objectSignals
 #' @export
 #' @export DtiSegData
 #'
